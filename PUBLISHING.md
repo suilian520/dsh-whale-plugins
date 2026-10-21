@@ -7,7 +7,7 @@ This repository uses GitHub for source code and npm for distribution.
 Create an empty public repository named `dsh-whale-plugins`, then set its URL locally:
 
 ```bash
-git remote add origin https://github.com/YOUR_NAME/dsh-whale-plugins.git
+git remote add origin https://github.com/suilian520/dsh-whale-plugins.git
 git branch -M main
 git push -u origin main
 ```
@@ -19,8 +19,8 @@ Add a `repository` field to both files under `packages/*/package.json`:
 ```json
 "repository": {
   "type": "git",
-  "url": "git+https://github.com/YOUR_NAME/dsh-whale-plugins.git",
-  "directory": "packages/PACKAGE_NAME"
+  "url": "git+https://github.com/suilian520/dsh-whale-plugins.git",
+  "directory": "packages/dsh-whale-slacking-timer"
 }
 ```
 

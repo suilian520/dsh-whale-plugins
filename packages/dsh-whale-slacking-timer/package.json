@@ -60,5 +60,15 @@
         "@deepseek-ai/dsh-client-locale"
       ]
     }
+  },
+  "author": "suilian520",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suilian520/dsh-whale-plugins.git",
+    "directory": "packages/dsh-whale-slacking-timer"
+  },
+  "homepage": "https://github.com/suilian520/dsh-whale-plugins#readme",
+  "bugs": {
+    "url": "https://github.com/suilian520/dsh-whale-plugins/issues"
   }
 }
