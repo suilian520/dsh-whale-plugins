@@ -1,0 +1,6 @@
+- insert:
+    - id: whale-daily-nonsense
+      name: 'dsh-whale-daily-nonsense'
+      config:
+        provider: deepseek-account
+        model: deepseek-flash
