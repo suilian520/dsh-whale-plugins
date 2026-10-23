@@ -1,6 +1,6 @@
 {
   "name": "dsh-whale-slacking-timer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A random slacking timer with a tsundere rice-loving whale-girl persona for DeepSeek Harness.",
   "type": "module",
   "license": "MIT",

@@ -1,22 +1,22 @@
 {
-    "name":  "dsh-whale-plugins",
-    "version":  "0.1.0",
-    "private":  true,
-    "description":  "A collection of useless but cute DeepSeek Harness plugins starring a tsundere whale girl.",
-    "license":  "MIT",
-    "engines":  {
-                    "node":  "\u003e=22"
-                },
-    "workspaces":  [
-                       "packages/*"
-                   ],
-    "scripts":  {
-                    "check":  "node scripts/check.mjs",
-                    "pack:dry":  "npm pack --workspaces --dry-run"
-                },
-    "repository":  {
-                       "type":  "git",
-                       "url":  "git+https://github.com/suilian520/dsh-whale-plugins.git"
-                   },
-    "homepage":  "https://github.com/suilian520/dsh-whale-plugins#readme"
+  "name": "dsh-whale-plugins",
+  "version": "0.2.0",
+  "private": true,
+  "description": "A collection of useless but cute DeepSeek Harness plugins starring a tsundere whale girl.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "pack:dry": "npm pack --workspaces --dry-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suilian520/dsh-whale-plugins.git"
+  },
+  "homepage": "https://github.com/suilian520/dsh-whale-plugins#readme"
 }

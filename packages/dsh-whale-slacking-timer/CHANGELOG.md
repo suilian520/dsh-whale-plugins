@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Publication retry after npm staged-version conflict
+
 ## 0.1.0
 
 - Initial publishable release

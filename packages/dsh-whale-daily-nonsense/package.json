@@ -1,7 +1,7 @@
 {
   "name": "dsh-whale-daily-nonsense",
-  "version": "0.1.0",
-  "description": "An AI-generated daily nonsense quote from a tsundere rice-loving whale girl for DeepSeek Harness.",
+  "version": "0.2.0",
+  "description": "An AI-generated daily nonsense quote with a shareable whale-girl card for DeepSeek Harness.",
   "type": "module",
   "license": "MIT",
   "keywords": [

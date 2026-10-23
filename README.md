@@ -16,7 +16,7 @@ A random 45–180 second break timer with pause/resume, a daily slacking counter
 
 `dsh-whale-daily-nonsense`
 
-Generates one daily nonsense quote through the Harness model already configured by the user. The result is cached for the local date, can be regenerated with “Ask AI again,” and falls back to built-in dialogue when the model is unavailable.
+Generates one daily nonsense quote through the Harness model already configured by the user. The result is cached for the local date, can be regenerated with “Ask AI again,” and can be exported as a 1080×1350 PNG share card with whale-girl artwork and a rice index.
 
 ## Install
 
